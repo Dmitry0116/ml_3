@@ -2,3 +2,5 @@ Fastapi
 transformers 
 pipeline
 pydantic 
+uvicorn
+torch
