@@ -1,0 +1,4 @@
+Fastapi 
+transformers 
+pipeline
+pydantic 
